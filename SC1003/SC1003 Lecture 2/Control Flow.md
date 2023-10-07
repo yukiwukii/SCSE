@@ -1,0 +1,3 @@
+- It controls which instruction should be executed next
+- Defined by 'sequence' of concept
+- However, structures can **alter** the flow (like [[selections]])

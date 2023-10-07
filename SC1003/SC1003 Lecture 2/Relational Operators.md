@@ -1,0 +1,3 @@
+- Compares 2 numbers and return a bool value of true or false
+- eg. '<', '<=', '!=', etc etc
+- Important in [[selections]]

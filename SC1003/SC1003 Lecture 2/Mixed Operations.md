@@ -1,0 +1,4 @@
+- Happened when you divide int with float, or the other way around.
+- In Python, datas are implicitly converted to the more detailed results
+	- eg. int is converted to float
+	- So, output will be in float
